@@ -27,4 +27,6 @@ Responsividade em todas as páginas.
 
 Tratamento de erros de login e register.
 
+Utilização de TailwindCSS
+
 
