@@ -1,15 +1,15 @@
-### CLONAR REPOSITORIO E ENTRAR NA PASTA
+### CLONAR O REPOSITORIO E ENTRAR NA PASTA
 
 git clone https://github.com/Diogoflowers/front-fakestore
 
 cd front-fakestore
 
 
-### INSTALAR DEPENDENCIA 
+### INSTALAR DEPENDÊNCIAS
 
 npm install
 
 
-### STARTAR PROJETO
+### EXECUTAR O PROJETO
 
 npm run dev
